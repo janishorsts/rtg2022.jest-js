@@ -1,4 +1,5 @@
-import { simpleArraySum } from "./simple-array-sum";
+// import { simpleArraySum } from "./simple-array-sum";
+const { simpleArraySum } = require("./simple-array-sum");
 
 describe("simpleArraySum", () => {
   it("Sample Input", () => {
